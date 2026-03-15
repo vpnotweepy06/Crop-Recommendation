@@ -115,7 +115,7 @@ crop-recommendation-ml
 Clone the repository from GitHub:
 
 ```
-git clone https://github.com/vpnotweepy06/crop-recommendation.git
+git clone https://github.com/vpnotweepy06/Crop-Recommendation.git
 ```
 
 Move into the project folder:
